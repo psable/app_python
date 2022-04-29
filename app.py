@@ -1,4 +1,3 @@
-"""System module."""
-import sys
+"""app.py"""
 
 print("TEST CI github en python")
